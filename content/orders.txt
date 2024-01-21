@@ -1,0 +1,3 @@
+Regenyi;Matyas;2;2;laktozmentes;2024.01.18.;Verőfény 17;;Magyarország;Zala;Zalaegerszeg;8900;0
+Regenyi;Matyas;3;3;latozmentes gluten mentes;1234;Verőfény 17;asd;asd;Zala;Zalaegerszeg;8900;0
+Regenyi;Matyas;5;5;laktozmentes;most;Verőfény 17;;Magyarország;Zala;Zalaegerszeg;8900;0
